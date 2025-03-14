@@ -49,7 +49,7 @@ More updates to follow soon...
 * Hardcoded Secrets
 * Insecure Access Control
 * Path Overwrite and Path Traversal
-* Unprotected Endpoints (Deeplink, Activitity, Service ...)
+* Unprotected Endpoints (Deeplink, Activity, Service ...)
 * Unsafe Sharing
 
 # Top 10 Mobile Risks - Final List 2016
