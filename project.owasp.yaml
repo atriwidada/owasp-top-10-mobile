@@ -1,0 +1,32 @@
+audience:
+  - builder
+community:
+  - name: owasp-mobile-top-10
+    platform: slack
+    url: https://owasp.slack.com/archives/C02L2BNTBLP
+    description: "Weekly Sync up call:\n<https://meet.google.com/xju-iptq-kxt>\n\nWeekly from 8:30am to 9am (UTC)"
+leaders:
+  - name: Milan Singh Thakur
+    email: milan@owasp.org
+    github: milanowasp
+  - name: Alaeddine MESBAHI
+    email: alaeddine.mesbahi@ostorlab.dev
+    github: 3asm
+  - name: Kunwar Atul
+    email: kunwar.atul@owasp.org
+    github: kunwaratulhax0r
+  - name: Mohamed Benchikh
+    email: mohamed.benchikh@owasp.org
+    github: BlueSquare1
+level: 3
+name: OWASP Mobile Top 10
+pitch: Description for OWASP Mobile Top 10
+repositories:
+  - name: www-project-mobile-top-10
+    url: https://github.com/OWASP/www-project-mobile-top-10
+tags:
+  - acknowledgements-tag
+  - controls-tag
+  - custom-tag-1
+type: documentation
+website: https://owasp.org/www-project-mobile-top-10
