@@ -24,5 +24,5 @@ title: "Top 10 Mobile Risks - OWASP Mobile Top 10 2024 - Final Release"
 * Hardcoded Secrets
 * Insecure Access Control
 * Path Overwrite and Path Traversal
-* Unprotected Endpoints (Deeplink, Activitity, Service ...)
+* Unprotected Endpoints (Deeplink, Activity, Service ...)
 * Unsafe Sharing
